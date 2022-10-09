@@ -14,7 +14,7 @@ Console.WriteLine("");
 
 
 int NumDay = int.Parse(Console.ReadLine());
-Console.WriteLine("Ваше число: ");
+Console.Write("Введенный порядковый номер: ");
 Console.WriteLine(NumDay);
 
 if (NumDay == 06)
